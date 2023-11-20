@@ -1,3 +1,11 @@
-.ciao {
-    color: red;
+header{
+    background-image: url("../img/pattern.png");
+    height: 175px;
+    background-color: rgb(0, 132, 255);
+    
+}
+.logo {
+    height: 90px;
+    margin-top: 75px;
+    margin-left: 10px;
 }
