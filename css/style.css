@@ -47,3 +47,6 @@ th {
         width: 100%;
         table-layout:fixed;
     }
+    h3 {
+        margin-top: 40px;
+    }
